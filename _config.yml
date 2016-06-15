@@ -1,7 +1,7 @@
 name: vanboy
 favicon: null
-layout_spectrum: 0.4249271838925779
-typography_spectrum: 0.4967899024486542
+layout_spectrum: 0.87496
+typography_spectrum: 0.28087
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#160600'
   brandStrength: 0.0674352366477251
   lightness: 0.8741393538657576
-  saturation: 0.5869363590609282
+  saturation: 0.75
   rhythmicContrast: 0.5761482692323625
 purpose: []
