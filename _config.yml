@@ -1,0 +1,28 @@
+name: vanboy
+favicon: null
+layout_spectrum: 0.4249271838925779
+typography_spectrum: 0.4967899024486542
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0674352366477251
+  lightness: 0.8741393538657576
+  saturation: 0.5869363590609282
+  rhythmicContrast: 0.5761482692323625
+purpose: []
